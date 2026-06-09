@@ -91,7 +91,9 @@ The platform supports PDF, DOCX, and image-based resumes using OCR.
 
 ## Output Screenshots
 
-
+<img width="1891" height="525" alt="Home_Page" src="https://github.com/user-attachments/assets/f6c7247b-5de8-4cd3-8785-e8960ce5cc1e" />
+<img width="1843" height="924" alt="Dashboard" src="https://github.com/user-attachments/assets/635ff716-c2f3-4acd-a0de-94dbae918ef1" />
+<img width="1822" height="911" alt="Graph_ _ATS_Score" src="https://github.com/user-attachments/assets/5f52dd09-2384-4414-8cc1-24dac90b8508" /> 
 
 ---
 
@@ -101,12 +103,6 @@ The platform supports PDF, DOCX, and image-based resumes using OCR.
 * Real-Time Job Recommendations
 * Personalized Learning Suggestions
 * Multilingual Resume Analysis
-
----
-
-## Contributors
-
-* Suma G
 
 ---
 
