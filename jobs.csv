@@ -1,0 +1,31 @@
+job_title,skills
+Data Scientist,"python,machine learning,pandas,numpy,deep learning,tensorflow"
+Data Analyst,"excel,sql,power bi,tableau,data visualization,statistics"
+Software Developer,"java,python,data structures,algorithms,sql"
+Web Developer,"html,css,javascript,react,nodejs,mongodb"
+ML Engineer,"python,machine learning,deep learning,tensorflow,pytorch"
+
+Mechanical Engineer,"cad,solidworks,thermodynamics,manufacturing,ansys"
+Civil Engineer,"autocad,structural analysis,construction,project management"
+Electrical Engineer,"circuits,power systems,control systems,matlab"
+
+Accountant,"accounting,excel,financial reporting,taxation,bookkeeping"
+Financial Analyst,"financial modeling,excel,valuation,forecasting"
+Banking Executive,"finance,communication,customer service,banking operations"
+
+HR Manager,"recruitment,communication,hr policies,employee engagement"
+HR Executive,"recruitment,onboarding,communication,hr operations"
+
+Marketing Executive,"marketing,seo,social media,branding,analytics"
+Digital Marketer,"seo,sem,google analytics,social media marketing"
+
+Business Analyst,"excel,sql,data analysis,communication,stakeholder management"
+Operations Manager,"operations,logistics,management,planning"
+
+Sales Executive,"sales,communication,negotiation,customer handling"
+
+Graphic Designer,"photoshop,illustrator,creativity,design"
+UI UX Designer,"figma,adobe xd,prototyping,design thinking"
+
+Teacher,"teaching,communication,subject knowledge"
+Content Writer,"writing,editing,seo,storytelling"
