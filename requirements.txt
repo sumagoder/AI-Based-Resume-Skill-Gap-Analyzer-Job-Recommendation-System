@@ -1,0 +1,11 @@
+flask
+pandas
+scikit-learn
+matplotlib
+pdfplumber
+pymupdf
+python-docx
+pytesseract
+pillow
+reportlab
+requests
